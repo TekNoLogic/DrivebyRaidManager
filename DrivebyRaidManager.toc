@@ -1,0 +1,10 @@
+# Interface: 50001
+
+## Title: Driveby Raid Manager
+## Notes: Auto-shoe/hide the compact raid manager frame
+## Author: Tekkub Stoutwrithe
+## Version: Alpha
+
+## RequiredDeps: Blizzard_CompactRaidFrames
+
+DrivebyRaidManager.lua
