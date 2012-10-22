@@ -1,7 +1,7 @@
 # Interface: 50001
 
 ## Title: Driveby Raid Manager
-## Notes: Auto-shoe/hide the compact raid manager frame
+## Notes: Auto-show/hide the compact raid manager frame
 ## Author: Tekkub Stoutwrithe
 ## Version: Alpha
 
