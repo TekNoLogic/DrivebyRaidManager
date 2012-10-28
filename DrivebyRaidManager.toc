@@ -1,4 +1,4 @@
-# Interface: 50001
+## Interface: 50001
 
 ## Title: Driveby Raid Manager
 ## Notes: Auto-show/hide the compact raid manager frame
